@@ -1,0 +1,2 @@
+# StreamTest
+Java Stream practices
